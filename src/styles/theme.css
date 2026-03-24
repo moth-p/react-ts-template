@@ -1,0 +1,21 @@
+:root {
+  /* Custom color system */
+  --color-primary-blue: #0a7db7;
+  --color-primary-red: #b7460a;
+  --color-neutral-purple: #7579a1;
+  --color-neutral-teal: #83aaa7;
+  --color-light-blue: #a7d9f2;
+  --color-light-red: #f2aaa7;
+  --color-light-purple: #b7bbe4;
+  --color-light-teal: #caddd7;
+  --color-black: #000000;
+  --color-dark-gray: #333333;
+  --color-medium-gray: #666666;
+  --color-light-gray: #e5e5e5;
+  --color-light-white: #ffffff;
+
+  /* Font families */
+  --font-krona-one: "Krona One", sans-serif;
+  --font-kumbh-sans: "Kumbh Sans", sans-serif;
+  --font-noto-sans-tc: "Noto Sans TC", sans-serif;
+}
